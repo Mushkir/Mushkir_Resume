@@ -1,0 +1,43 @@
+
+# Mushkir's Resume
+
+
+I am Mushkir and  My Resume is a web-based, responsive representation of my professional background and qualifications. This project is created using pure HTML and CSS, ensuring a clean and visually appealing design that adapts seamlessly to various screen sizes. It serves as a digital resume for potential employers, clients, or collaborators to learn more about my skills and experiences.
+## Demo
+
+[View Live Demo](https://mushkir.github.io/Mushkir_Resume)
+
+## Key Features
+
+- **Responsive Design:**  My Resume is designed to provide an optimal viewing experience on different devices and screen sizes, making it accessible to a broad audience.
+- **Custom HTML and CSS:** The entire resume is built from scratch with custom HTML and CSS, allowing for a unique and personalized presentation of my qualifications.
+## Internship
+This internship is provided by CyberDude Networks Pvt. Ltd. as part of the 6-Month Free Internship program, a skill development initiative organized to enhance participants' skills. Mentoring was provided by **Mr. Anbuselvan Rocky** (https://github.com/anburocky3). For more information, you can contact **CyberDude Networks** here (https://www.cyberdudenetworks.com)
+## Tech Stack
+
+- **HTML:**  HTML is utilized to structure the content and layout of the resume, creating a well-organized and structured document.
+
+- **CSS:** Custom CSS styles are applied to ensure an aesthetically pleasing and cohesive design that aligns with my personal branding.
+## Usage
+
+- Clone this repository to your local machine.
+
+```bash
+  git clone https://github.com/Mushkir/Mushkir_Resume.git
+```
+- Customize the content, styling, and structure to make this resume truly your own. Tailor it to match your specific skills and experiences.
+## Contributing
+
+Contributions are always welcome!
+
+While a resume is typically a personal document, you can contribute to the project by sharing ideas, providing feedback, or suggesting improvements. Feel free to open an issue if you have any suggestions.
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Acknowledgements
+
+ A well-designed digital resume is a valuable asset in today's competitive job market. It allows you to present your qualifications effectively and make a positive impression on potential employers and clients.
+
+Utilize your resume to communicate your skills, experiences, and achievements to the world. Enjoy crafting your digital professional profile!
