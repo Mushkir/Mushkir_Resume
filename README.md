@@ -35,6 +35,8 @@ While a resume is typically a personal document, you can contribute to the proje
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+This project is open-source and is available under the MIT License. You are encouraged to use, modify, and distribute it in accordance with the terms of the license.
+
 
 ## Acknowledgements
 
